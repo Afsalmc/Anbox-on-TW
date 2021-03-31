@@ -1,6 +1,6 @@
 # Anbox-on-TW
 Install Anbox on openSUSE Tumbleweed without using snap
-How to install Anbox without snap in TW
+
 
 1. install  kernel-default , anbox , properties-cpp from repo https://build.opensuse.org/project/show/home:munix9:test
 
